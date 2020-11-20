@@ -5,9 +5,9 @@
 #
 title: Stranded Lands
 email: skalimoi@protonmail.com
-description: A simple and awesome blog theme powered by jekyll.
+description: Skalwell's blog.
 url: https://skalimoi.github.io/
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "jekyll", "worldbuilding", "maps"]
 
 #
 ###################################
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Stranded Lands
-  avatar: leonids-logo.png
+  avatar: avatar1.jpg
   job: "Rants and crafts"
   bio: "Here you shall see my various shenanigans."
   email: skalimoi@protonmail.com
