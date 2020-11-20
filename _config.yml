@@ -1,50 +1,71 @@
-# Site Settings
-baseurl: ""
-url : "https://skalimoi.github.io"
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
 
-# Blog Settings
-theme_settings :
-  title : Stranded Lands
-  favicon : assets/favicon.ico
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-  # Profile Settings
-  profile :
-    image : assets/img/smile.png
-    username : Stranded Lands
-    description : I like worldbuilding, maps, and many other things. 
-    experience :
-      - start : 
-        end : 
-        experience : 
-    skills : 
-      - skill : 
-        value : 
-        
-  # Icons
-  icons :
-    email: skalimoi@protonmail.com
-    linkedin:  # Full URL 
-    github: 
-    gitlab: 
-    bitbucket: 
-    google_plus:
-    twitter: pmmdkmgk
-    youtube:
-    facebook:
-    instagram:
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-  # Disqus
-  disqus_shortname :
-  comments : true
-
-# Pagination
-paginate: 5
-paginate_path: "blog/page:num"
-
-# Build Ssttings
-sass:
-  sass_dir: _sass
-  style: :compressed
-gems: [jekyll-paginate]
-bootstrap:
-  assets: true
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Leonids
+  avatar: leonids-logo.png
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: #username
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
