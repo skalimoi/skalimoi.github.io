@@ -69,3 +69,5 @@ owner:
   codepen: #username
   reddit: #username
   telegram: skalwell
+
+  staticman_url = https://api.staticman.net/v3/entry/github/skalimoi/skalimoi.github.io/master/comments
