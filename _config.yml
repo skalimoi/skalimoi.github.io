@@ -10,15 +10,15 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Stranded Lands
+    description : I like worldbuilding, maps, and many other things. 
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 
+        end : 
+        experience : 
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : 
+        value : 
         
   # Icons
   icons :
@@ -35,6 +35,7 @@ theme_settings :
 
   # Disqus
   disqus_shortname :
+  comments : true
 
 # Pagination
 paginate: 5
