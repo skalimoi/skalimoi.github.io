@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: Stranded Lands
+email: skalimoi@protonmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Stranded Lands
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Rants and crafts"
+  bio: "Here you shall see my various shenanigans."
+  email: skalimoi@protonmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: pmmdkmgk
   facebook: #username
   google:
     plus: #username
@@ -68,4 +68,4 @@ owner:
   500px: #username
   codepen: #username
   reddit: #username
-  telegram: #username
+  telegram: skalwell
