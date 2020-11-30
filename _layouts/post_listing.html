@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
-{% unless post.categories contains "Espanol"%}
+{% unless post.categories contains "Castellano"%}
 <section class="post">
   <header class="post-header">
     <p class="post-meta">
@@ -60,4 +60,5 @@ layout: default
     {% endif %}
 
 </section>
+{% endunless %}
 {% endfor %}
