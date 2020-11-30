@@ -4,6 +4,8 @@ title: No tiene gracia.
 categories: [Castellano]
 comments: false
 ---
+***Cuando todavía recordaba lo que me hacía único.***
+
 ¿Qué sentisteis, amigos míos? La brisa congelada del océano gris en vuestras caras, curtiendo la piel hasta convertirla en polvo. No puedo ni imaginarlo... Pues aunque yo estuve con vosotros esa fría mañana y hundí mis pies en esa misma arena, nada de lo que sentí ese día puede compararse a vuestros recuerdos. Ingratos. Algunos lloráis y otros maldecís. Egas se regocija rascándose los dientes.
 
 Os observo a todos desde la lejanía. Siempre sospeché que pasaría esto. El error fue no haberlo esperado antes.
