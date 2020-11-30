@@ -1,9 +1,7 @@
 ---
 layout: post
 title: No tiene gracia.
-categories: [Memories, Castellano]
-lang: es
-lang-ref: no-tiene-gracia
+categories: [Castellano]
 comments: false
 ---
 
