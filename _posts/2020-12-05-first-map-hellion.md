@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An introduction. Atlas map #1, Hellion
+excerpt: "What do you mean, maps?"
 categories: [Maps]
 ---
 ![Click here to see the map.](https://raw.githubusercontent.com/skalimoi/skalimoi.github.io/master/_assets/MAP-1.jpg)
