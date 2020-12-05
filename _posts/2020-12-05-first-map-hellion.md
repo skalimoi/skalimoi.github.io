@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An introduction. Atlas map Nº1, Hellion
+title: An introduction. Atlas map Number 1, Hellion
 excerpt: "What do you mean, maps?"
 categories: [Maps]
 ---
