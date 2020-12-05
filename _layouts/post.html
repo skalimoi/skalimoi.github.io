@@ -61,11 +61,6 @@ layout: default
   </ul>
 </div><!-- end share-buttons -->
 
-{% if site.owner.disqus-shortname and page.comments == true %}
-<div id="disqus_thread"></div>
-{% include disqus.html %}
-{% endif %}
-
 <!-- Comments -->
 <script src="/js/jquery.min.js"></script>
 {% include comments.html element=".post-content" github_account="Skalimoi/skalimoi.github.io" require_cookie_consent="true" %}
