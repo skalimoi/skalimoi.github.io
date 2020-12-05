@@ -62,7 +62,6 @@ layout: default
 </div><!-- end share-buttons -->
 
 <!-- Comments -->
-<script src="/js/jquery.min.js"></script>
-{% include comments.html element=".post-content" github_account="Skalimoi/skalimoi.github.io" require_cookie_consent="true" %}
-</body>
-</html>
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
