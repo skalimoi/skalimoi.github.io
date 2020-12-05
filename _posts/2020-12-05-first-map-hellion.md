@@ -6,7 +6,7 @@ share: true
 comments: true
 ---
 
-![](/_assets/MAP-1.jpg)
+![Click here to see the map.](/_assets/MAP-1.jpg)
 
 Hello, everyone. This is going to be the first map in what consists of a *very* ambitious series of maps and texts that will, little by little, flesh out and describe the world of the *Slétti Dythen*. All these pages will be part of a yet unnamed atlas. Right now, I have thought about developing the following sections:
 
