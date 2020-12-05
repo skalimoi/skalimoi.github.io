@@ -52,11 +52,12 @@ layout: default
     ...
     <div id="vcomment"></div>
     <script>
-        new Valine({
-            el: '#vcomment' ,
-            appId: 'tSGBtSWqU9zqoFmfEasXMss2-MdYXbMMI',
-            appKey: 'r2WOK6sg7zPlqx0YYITgv4bM'
-            lang: 'en'
-        });
+    var valine = new Valine();
+    valine.init({
+        el:'#vcomment',
+        appId:'tSGBtSWqU9zqoFmfEasXMss2-MdYXbMMI',
+        appKey:'r2WOK6sg7zPlqx0YYITgv4bM'
+        lang: 'en'
+    })
     </script>
 </body>
