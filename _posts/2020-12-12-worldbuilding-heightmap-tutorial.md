@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worldbuilding tutorial: How to use real DEMs to create fantasy heightmaps with Photoshop.
+title: Worldbuilding tutorial &#58 How to use real DEMs to create fantasy heightmaps with Photoshop.
 excerpt: "A guide on creating heightmaps using QGIS and Adobe Photoshop."
 categories: [Tutorial]
 ---
