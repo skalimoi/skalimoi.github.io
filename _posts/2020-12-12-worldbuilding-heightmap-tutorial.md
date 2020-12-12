@@ -159,4 +159,6 @@ Check out the difference on what I did with Burn (left) and Erase (right).
 
 Lastly, a final consideration: please, please, don't copy and paste large chunks of terrain. At least, not without editing them a lot. People will notice and it's not a very creative thing to do. Copying small chunks is more tedious and it takes more time to compose something, but the result is much better and personal. Don't copy the Earth, folks.
 
-That's the end! I hope this is useful for anyone wanting to make a fantasy heightmap for their worlds. If you have any question, feel free to comment below or to contact me by the means I provide in this blog. Happy worldbuilding!
+That's the end! I hope this is useful for anyone wanting to make a fantasy heightmap for their worlds. If you have any question, feel free to comment below or to contact me by the means I provide in this blog. 
+
+My next posts will involve personal works again. Happy worldbuilding!
