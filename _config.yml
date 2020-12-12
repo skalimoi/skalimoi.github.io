@@ -5,7 +5,7 @@
 #
 title: Stranded Lands
 email: skalimoi@protonmail.com
-description: Skalimoi's blog.
+description: A blog dedicated to worldbuilding and writing.
 url: https://skalimoi.github.io
 keywords: ["blog", "jekyll", "worldbuilding", "maps"]
 
@@ -71,3 +71,6 @@ owner:
   telegram: skalwell
 
 comments: true
+
+plugins:
+  - jekyll-seo-tag
