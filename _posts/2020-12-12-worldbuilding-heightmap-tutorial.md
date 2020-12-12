@@ -143,7 +143,7 @@ The process now is very straightforward: you copy a part of the heightmap and pa
 
 >The Dodge and Burn tools are very useful for this. 
 ![](https://raw.githubusercontent.com/skalimoi/skalimoi.github.io/master/_assets/Tutorials/25.png)
-Check out the difference on what I did with Burn (left) and Erase (right).
+Check out the difference on what I did with Burn (up) and Erase (down).
 
 ![](https://raw.githubusercontent.com/skalimoi/skalimoi.github.io/master/_assets/Tutorials/21.png)
 ![](https://raw.githubusercontent.com/skalimoi/skalimoi.github.io/master/_assets/Tutorials/22.png)
