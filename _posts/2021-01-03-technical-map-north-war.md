@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technical map : The northern front in the year 1123
+title: Technical map. The northern front in the year 1123
 excerpt: This isn't the first map of the year, though.
 categories: [Maps]
 ---
