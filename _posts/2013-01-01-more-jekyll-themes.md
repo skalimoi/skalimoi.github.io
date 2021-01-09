@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "More Jekyll Themes!"
+permalink: /articles/:year/:month/:name/
 ---
 
 #### Lagrange
