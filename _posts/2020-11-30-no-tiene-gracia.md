@@ -3,7 +3,7 @@ layout: post
 title: "No tiene gracia."
 permalink: /articles/:year-:month/:title
 ---
-*If you want to read this text [**in English**]()...*
+*If you want to read this text [**in English**](https://skalimoi.github.io/articles/2020-11/not-funny)...*
 
 ***Cuando todavía recordaba lo que me hacía único.***
 

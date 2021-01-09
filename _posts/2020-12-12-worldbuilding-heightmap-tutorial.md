@@ -19,7 +19,7 @@ In this post, we'll learn how to:
 
 - Compose our terrain in Photoshop.
 
-# What you need
+### What you need
 
 - [QGIS](https://qgis.org/en/site/forusers/download.html): A professional GIS software for all your mapping needs. It's incredibly powerful, but we'll only use a small fraction of its many capabilities. And it's free!
 
@@ -29,7 +29,7 @@ In this post, we'll learn how to:
 
 Because I want to maintain the *mystery* of my world, I won't use any map of mine for the purposes of this tutorial. I want you all to discover it little by little. 
 
-# Step 1: Download the data
+### Step 1: Download the data
 
 [Heightmaps](https://en.wikipedia.org/wiki/Heightmap) are grayscale images that contain information about the topography of a region. If you have any sort of videogame design, you may have heard about them: heightmaps are widely used to compose maps or levels in game engines like Unreal Engine or Unity. However, they're also extremely important for professional cartographers, as they can obtain complex elevation data from a single file! How cool is that?
 
@@ -74,7 +74,7 @@ The quality of the data is given in arc seconds: the higher the number, the lowe
 
 About downloading: I find the Bulk Download Application (the box icon) far more convenient, but it's an old software and it gives a lot of problems with Java for some reason. However, I suggest you try it if you find this download process tedious.
 
-# Step 2: Converting the data
+### Step 2: Converting the data
 
 This data is downloaded in compressed zip files. Inside, you'll find another bunch of files with strange names. 
 
@@ -122,7 +122,7 @@ This is to make sure that our output is 16bit.
 
 Click run, and we'll have our final image in no time! Depending on your computer specs, this will take more or less time.
 
-# Step 3: Creating your heightmap
+### Step 3: Creating your heightmap
 
 This is the shortest step on this tutorial. I can only give you some general steps on how to create your heightmap, as it's more of a creative and personal process. You need to open both the heightmap and the landmass you want to make your topography of. For this tutorial, I'll use a blank map of Madagascar, but you should use a black and white map of your landmass. Those colors make it easier to edit the shape and make masks out of it.
 

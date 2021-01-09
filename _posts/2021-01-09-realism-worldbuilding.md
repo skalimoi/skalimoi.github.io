@@ -40,11 +40,15 @@ And before you tell me anything: *Does it really matter?*
 
 The Middle Earth isn't the most realistic continent ever: there are a lot of jokes on the mountains that surround Mordor because of their unrealistic shape. 
 
-[image of Mordor map]
+![](https://raw.githubusercontent.com/skalimoi/skalimoi.github.io/master/_assets/Essays/TOLKIEN_MAP_cr.jpg)
 
 That doesn't stop people from considering LOTR one of, if not the best, fantasy stories of all time. You're still interested in the Middle Earth because it has a huge and complex history, full of compelling characters and civilizations, each with their own logical cultures and myths. That's what makes a world credible. 
 
-[image and footnote] Cubist painters like Picasso didn't just draw random shapes on a canvas. They developed their own styles based on the abstraction of their previous knowledge.
+These two paintings are both by Picasso:
+![](https://raw.githubusercontent.com/skalimoi/skalimoi.github.io/master/_assets/Essays/SCIENCE_AND_CHARITY.jpg)
+![](https://raw.githubusercontent.com/skalimoi/skalimoi.github.io/master/_assets/Essays/AVIGNON.jpg)
+
+Cubist painters like Picasso didn't just draw random shapes on a canvas. They developed their own styles based on the abstraction of their previous knowledge.
 
 What if we strive for a middle ground? You may want your world to have an overall credible geography, but you don't want to spend months torturing yourself over it. Maybe you want to give your personal touch to it. What I suggest is to educate yourself on those matters, like how real climates work or how the continents of the Earth came to be, but then to use that knowledge you gathered to do what your heart tells you. You have the theory, but you choose what to do in practise. This works with everything else, from cultures to economy, any topic you can talk about in worldbuilding. When you have a basic knowledge to work with, you can trust yourself to give your world an internal consistency.
 
