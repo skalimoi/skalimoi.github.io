@@ -1,9 +1,18 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Atlas Map: Hellion'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+{% include image.html image="projects/proj-1/MAP-1.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+Honestly, it's the first time I make a whole map just with Illustrator, and it's been both a blessing and a curse. On one hand, it's incredibly easy and versatile on the long run to make an entirely vectorial map. You don't need to worry about quality or size! On the other hand, though, it can be more consuming in terms of time and resources. If I had a coin for every time Illustrator has crashed... However, I would still recommend it. There are other alternatives that are either free or cheap, like Inkscape or Affinity Designer, but you know what? Just download a pirated version of Illustrator and you'll be fine.
+
+For the terrain, I already had a heightmap (or [DEM](https://en.wikipedia.org/wiki/Digital_elevation_model)) of Hellion, which is a grayscale image that depicts the elevation, so I only had to import it into [ArcGis Pro](https://www.esri.com/es-es/arcgis/products/arcgis-pro/overview) to calculate the different contour lines. If you're familiar with GIS software, this is pretty easy to do: easier if you use ArcGis Pro... but it's a commercial software. I couldn't crack it this time, so I went and created a Student account so I could use it for free. 
+
+You could ask me: why don't you use open-source software like QGIS? I mean, QGIS is a great software and I use it for other purposes, but it isn't capable of calculating contour polygons, only [contour lines](https://en.wikipedia.org/wiki/Contour_line). The difference between these is that contour polygons are stacked up, so they don't create conflicts between each other: they go one above the other. If you try to fill contour lines with color, you'll have a lot of problems because they're all at the same level.
+
+I choose Hellion to be the first depicted region because it's the country I have the most information of. It's the setting of the story I plan to write (Hah! I almost sound like a real writer here), an isolated country in the limits of the Pole of Ancroma on the south. You can already imagine: it's a pretty cold region, hostile and lacking, but still a living place full of wonders and beautiful landscapes. It's a very important place to me: even if it's far from perfect (you *really* wouldn't like to live there). You'll know more about it in the future.
+
+
+
+
