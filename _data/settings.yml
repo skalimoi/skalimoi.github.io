@@ -57,7 +57,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Atlas Map: Hellion', folder: 'proj-1', file: 'projects/ATLAS-HELLION.html'}
+- {name: 'Atlas Map: Hellion', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Technical Map: The Northern Front', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
